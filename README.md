@@ -1,5 +1,10 @@
 # explaining-windowing-system
 
+#### Installing operating system without Windowing System
+To understand Windowing System, it is useful to see how to install it and  
+configure it with an average Linux kernel distribution. For this time around,  
+Ubuntu by Canonical undoubtably have biggest appearance in media these days among   
+various governmental institutions, and have grown some kind of community. 
 
 
 
