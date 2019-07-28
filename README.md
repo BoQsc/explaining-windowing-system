@@ -14,6 +14,11 @@ we should consider to begin with installing a variant of **Ubuntu Server**.
 It might look counter intuitive, but having Windowing system already preinstalled,  
 might not be very effective way for beginners to get the sense of what exactly it is.
 
+To install operating system, you surely have to download it.  
+And here I provide you with the links, choose wisely:
+* Canonical Ubuntu Desktop https://ubuntu.com/download/desktop
+* Canonical Ubuntu Server https://ubuntu.com/download/server
+
 
 Sources:   
 Create a Barebones Linux Desktop GUI without a Display Manager (Even lighter!)  
