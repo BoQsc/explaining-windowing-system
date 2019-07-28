@@ -6,6 +6,13 @@ configure it with an average Linux kernel distribution. For this time around,
 Ubuntu by Canonical undoubtably have biggest appearance in media these days among   
 various governmental institutions, and have grown some kind of community. 
 
+Currently Ubuntu mainly offers **Ubuntu Desktop** and **Ubuntu Server** variants,  
+if it is not already obvious, **Ubuntu Desktop** already includes Windowing System  
+and Desktop Environment. That means if we insist to learn about the Windowing System  
+we should consider to begin with installing a variant of **Ubuntu Server**.
+
+It might look counter intuitive, but having Windowing system already preinstalled,  
+might not be very effective way for beginners to get the sense of what exactly it is.
 
 
 Sources:   
